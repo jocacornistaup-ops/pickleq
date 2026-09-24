@@ -1,0 +1,8 @@
+# PICKLEQ uses only Python's standard library:
+#   - tkinter  (GUI)
+#   - sqlite3  (database)
+#   - hashlib, datetime, os (built-in)
+#
+# Nothing to pip install for the app itself. This file is kept so the
+# project looks complete on GitHub and so you have a place to add
+# packages later (e.g. if you add charts, PDF export, etc.).

@@ -1,0 +1,12 @@
+# Database (generated at runtime, don't commit real user data)
+pickleq.db
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# OS / editor
+.DS_Store
+.vscode/
